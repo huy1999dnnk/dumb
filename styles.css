@@ -1,0 +1,41 @@
+body{
+    background-color: brown;
+}
+.btn1
+{
+    text-align: center;
+}
+p
+{
+    text-align: center;
+    font-size: 2.3rem;
+}
+.pressed
+{
+    box-shadow:0 3px 4px 0 #dbedfa ;
+    opacity: 0.5;
+}
+.drum
+{
+    display: inline-block;
+    border: 10px solid #404b69;
+    font-size: 1.5rem;
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    font-family: monospace;
+    line-height: 2;
+}
+.drum:hover
+{
+    background-color: aquamarine;
+}
+footer
+{
+    text-align: center;
+    padding: 10% 5%;
+    font-size: 3rem;
+    color: bisque;
+    font-family: "Consolas";
+}
